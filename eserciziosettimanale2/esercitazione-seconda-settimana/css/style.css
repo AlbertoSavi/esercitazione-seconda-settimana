@@ -1,0 +1,107 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: #E9EDEE;
+}
+
+header{
+    background-color:#222F3F ;
+}
+
+.imglogo{
+    width: 180px;
+    padding: 0.5%;
+    
+}
+
+
+.fakelink{
+    background-color:#364757 ;
+    font-size: 1.5em;
+    padding: 0.5%;
+    a:link, a:visited{
+        color: white;
+        text-decoration: none;
+    }
+}
+
+.centro{
+    padding: 1%;
+}
+
+.orangetxt{
+    background-color: #F56600;
+    color: white;
+    padding: 0.5%;
+}
+
+.centraltxt{
+   background-image: url(/img/bg-image.png);
+   background-size: contain;
+   height: 290px;
+}
+
+.textimg{
+    color: white;
+    padding-top:3%;
+    font-size: 1.4em;
+}
+
+.colorefondo{
+    background-color: white;
+    margin: 1%;
+}
+
+a:link, a:visited{
+    color: #096469;
+    text-decoration: none;
+    font-size: 0.7em;
+}
+.mid p{
+    font-weight: bold;
+    padding: 1%;
+    text-align: left;
+    font-size: 1.5em;
+     
+}
+
+.fourimg img{
+    
+    border-radius: 13%;
+    height: 550px;
+    width: 440px;
+    padding: 0.5%;
+    margin-top: -1.2%;
+}
+
+.bigimg {
+    
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.big1, .big2{
+    width: 98%;
+}
+
+footer{
+    text-align: center;
+    background-color:#222F3F ;
+}
+
+footer p{
+    padding:0.5% ;
+    background-color: #096469;
+    a:link, a:visited{
+        color: white;
+        text-decoration: underline;
+        font-size: 1em;
+    }
+}
+
+footer img{
+    width: 240px;
+    padding: 2%;
+}
