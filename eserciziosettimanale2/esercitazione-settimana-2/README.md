@@ -1,2 +1,0 @@
-# esercitazione settimana 2
- 
